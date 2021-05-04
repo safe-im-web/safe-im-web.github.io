@@ -16,7 +16,7 @@ body {
 }
 
 .header {
-    background: #b0ffe9;
+    background: #b0d5ff;
     margin: 0px;
     padding: 10px;
     text-align: center;
@@ -27,7 +27,7 @@ body {
     align-items: center;
 }
 footer {
-    background: #b0ffe9;
+    background: #b0d5ff;
     margin: 0px;
     padding: 0px 6px;
     align-self: bottom;
