@@ -67,11 +67,11 @@ a {
 
 @media (min-width: 1200px) {
     body {
-        background-image: url('https://cdn.pixabay.com/photo/2018/05/14/16/25/cyber-security-3400657__340.jpg');
+        background-image: url('https://cdn.pixabay.com/photo/2016/04/16/10/42/binary-1332816__340.jpg');
     }
 }
 @media (max-width: 1200px) {
     body {
-        background-image: url('https://cdn.pixabay.com/photo/2018/05/14/16/25/cyber-security-3400657__340.jpg');
+        background-image: url('https://cdn.pixabay.com/photo/2016/04/16/10/42/binary-1332816__340.jpg');
     }
 }
