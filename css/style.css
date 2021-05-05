@@ -67,11 +67,11 @@ a {
 
 @media (min-width: 1200px) {
     body {
-        background-image: url('https://media.istockphoto.com/photos/exclamation-point-picture-id483773163?b=1&k=6&m=483773163&s=170667a&w=0&h=eUDslG9CZm7JFrq4Qt4qesM5KjBj4C87IsRjAc9Yozk=');
+        background-image: url('Background.png');
     }
 }
 @media (max-width: 1200px) {
     body {
-        background-image: url('https://media.istockphoto.com/photos/exclamation-point-picture-id483773163?b=1&k=6&m=483773163&s=170667a&w=0&h=eUDslG9CZm7JFrq4Qt4qesM5KjBj4C87IsRjAc9Yozk=');
+        background-image: url('Background.png');
     }
 }
