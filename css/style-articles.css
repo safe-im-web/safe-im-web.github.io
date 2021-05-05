@@ -67,11 +67,11 @@ a {
 
 @media (min-width: 1200px) {
     body {
-        background-image: url('../background.png');
+        background-image: url('../Background.png');
     }
 }
 @media (max-width: 1200px) {
     body {
-        background-image: url('../background.png');
+        background-image: url('../Background.png');
     }
 }
