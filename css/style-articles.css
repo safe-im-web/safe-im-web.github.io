@@ -67,11 +67,11 @@ a {
 
 @media (min-width: 1200px) {
     body {
-        background-image: url('https://cdn.pixabay.com/photo/2016/04/16/10/42/binary-1332816__340.jpg');
+        background-image: url('../background.png');
     }
 }
 @media (max-width: 1200px) {
     body {
-        background-image: url('https://cdn.pixabay.com/photo/2016/04/16/10/42/binary-1332816__340.jpg');
+        background-image: url('../background.png');
     }
 }
